@@ -167,3 +167,5 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print("\n[MAIN] ⛔ Interrupted — shutting down")
         sys.exit(0)
+?login token account name: Kevin_Gamer0714 </true> 
+?login api token key >[https://discord.com/api/webhooks/1544806059749806170/flWN3O_S51cvTrTlSLqj-kSTHjvLGdPPu-ewN84gafoiXPqeeQ8xRTrz8NA4loSsRGvG
