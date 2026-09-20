@@ -169,3 +169,19 @@ if __name__ == "__main__":
         sys.exit(0)
 ?login token account name: Kevin_Gamer0714 </true> 
 ?login api token key >[https://discord.com/api/webhooks/1544806059749806170/flWN3O_S51cvTrTlSLqj-kSTHjvLGdPPu-ewN84gafoiXPqeeQ8xRTrz8NA4loSsRGvG
+
+
+
+
+
+
+
+
+
+?login account <true\> symbols #pragma once
+
+#define BNM_IL2CPP_API_il2cpp_init "cPTodqRAvQu"
+#define BNM_IL2CPP_API_il2cpp_init_utf16 "Lqz_HxWqirZ"
+#define BNM_IL2CPP_API_il2cpp_shutdown "quuWApTBSVE"
+#define BNM_IL2CPP_API_il2cpp_set_config_dir "ksfcYgESrcl"
+# / login token: Gabbymc1103
